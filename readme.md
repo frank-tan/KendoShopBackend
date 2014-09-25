@@ -1,0 +1,1 @@
+This project is a RESTful backend for KendoShop web application. It is built in PhP Laravel framework.
