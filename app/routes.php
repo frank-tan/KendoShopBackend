@@ -16,4 +16,5 @@ Route::get('/', function()
 	return View::make('hello');
 });
 
+header('Access-Control-Allow-Origin: *');
 Route::get('/products', 'ProductController@allProducts');
