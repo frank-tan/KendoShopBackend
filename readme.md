@@ -9,6 +9,6 @@ To run this web app
 
 1. Clone the project
 2. Install composer dependencies
-  composer install
+    composer install
 3. Run the web app in dev mode
-  php artisan serve
+    php artisan serve
