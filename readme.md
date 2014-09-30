@@ -12,3 +12,5 @@ To run this web app
 <pre><code>composer install</code></pre>
 3. Run the web app in dev mode
 <pre><code>php artisan serve</code></pre>
+
+[frank-tan/AngularKendoShop](https://github.com/frank-tan/AngularKendoShop) is a frontend making use of this web app backend. 
