@@ -8,73 +8,85 @@ class ProductController extends BaseController {
 			'{
 			    "products": [
 			        {
-			            "name": "IpponMen",
+						"id": 1,
+			            "name": "Ippon Men",
 			            "description": "Highquality hand made men",
 			            "category": "Bogu",
 			            "price": 300
 			        },
 			        {
-			            "name": "IpponCote",
+						"id": 2,
+			            "name": "Ippon Cote",
 			            "description": "High quality hand made cote",
 			            "category": "Bogu",
 			            "price": 150
 			        },
 			        {
-			            "name": "IpponDo",
+						"id": 3,
+			            "name": "Ippon Do",
 			            "description": "High quality hand made do",
 			            "category": "Bogu",
 			            "price": 200
 			        },
 			        {
-			            "name": "IpponTare",
+						"id": 4,
+			            "name": "Ippon Tare",
 			            "description": "High quality hand made tare",
 			            "category": "Bogu",
 			            "price": 200
 			        },
 			        {
-			            "name": "BatoBoken",
+						"id": 5,
+			            "name": "Bato Boken",
 			            "description": "A premium bukuto for kata training",
 			            "category": "Bukuto",
 			            "price": 90
 			        },
 			        {
-			            "name": "RyutoBoken",
+						"id": 6,
+			            "name": "Ryuto Boken",
 			            "description": "Our top quality bukuto",
 			            "category": "Bukuto",
 			            "price": 120
 			        },
 			        {
-			            "name": "MushinShinai",
+						"id": 7,
+			            "name": "Mushin Shinai",
 			            "description": "A basic shinai for everyday training",
 			            "category": "Shinai",
 			            "price": 30
 			        },
 			        {
-			            "name": "BudonshinShinai",
+						"id": 8,
+			            "name": "Budonshin Shinai",
 			            "description": "A premium shinai made of high quality bamboo",
 			            "category": "Shinai",
 			            "price": 40
 			        },
 			        {
-			            "name": "ZanshinShinai",
+						"id": 9,
+			            "name": "Zanshin Shinai",
 			            "description": "Ourtopqualityshinai, recommended for professional players and shiais",
 			            "category": "Shinai",
 			            "price": 50
 			        },
 			        {
-			            "name": "KurantoIaito",
+						"id": 10,
+			            "name": "Kuranto Iaito",
 			            "description": "A premium iaito",
 			            "category": "Iaito",
 			            "price": 900
 			        },
 			        {
-			            "name": "SeichutoIaito",
+						"id": 11,
+			            "name": "Seichuto Iaito",
 			            "description": "A rare replica of a historical katana",
 			            "category": "Iaito",
 			            "price": 1200
 			        },
 			        {
-			            "name": "GyakutoIaito",
+						"id": 12,
+			            "name": "Gyakuto Iaito",
 			            "description": "Our top quality iaito",
 			            "category": "Iaito",
 			            "price": 2000
